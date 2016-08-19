@@ -60,3 +60,5 @@ class SqlCalcES6 extends CalculatorES6 {
         return result * result;
     }
 }
+
+module.exports = { CalculatorES6,SqlCalcES6 };

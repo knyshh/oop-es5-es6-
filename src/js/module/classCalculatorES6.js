@@ -1,5 +1,5 @@
 class CalculatorES6{
-    constuctor(firstNumber){
+    constructor(firstNumber){
        this.firstNumber = firstNumber;
     };
     sum() {
